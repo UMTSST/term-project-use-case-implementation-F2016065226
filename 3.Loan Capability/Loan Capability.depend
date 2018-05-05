@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525519639 source:d:\university stuff\semester 4\software engineering\project\use case coding\loan capability\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1525522907 source:d:\university stuff\semester 4\software engineering\project\use case coding\2.loan capability\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1525523058 source:d:\university stuff\semester 4\software engineering\project\use case coding\3.loan capability\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
